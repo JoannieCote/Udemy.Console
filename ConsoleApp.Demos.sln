@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.UserInputDemo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{691A03C8-036E-4A22-AF5C-7E03DF43427C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ConditionsAndDecisions", "ConsoleApp.ConditionsAndDecisions\ConsoleApp.ConditionsAndDecisions.csproj", "{ADB4D796-0805-410B-AB52-F76506F11F0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB4D796-0805-410B-AB52-F76506F11F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB4D796-0805-410B-AB52-F76506F11F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB4D796-0805-410B-AB52-F76506F11F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB4D796-0805-410B-AB52-F76506F11F0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
