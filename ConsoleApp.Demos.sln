@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.VariableDemo", "ConsoleApp.VariableDemo\ConsoleApp.VariableDemo.csproj", "{8C6003F7-053E-434A-8288-C64271E29DE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.UserInputDemo", "ConsoleApp.UserInputDemo\ConsoleApp.UserInputDemo.csproj", "{CE31B12A-9FA6-496A-A73E-A31FC36E72D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Operators", "ConsoleApp.Operators\ConsoleApp.Operators.csproj", "{691A03C8-036E-4A22-AF5C-7E03DF43427C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CE31B12A-9FA6-496A-A73E-A31FC36E72D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE31B12A-9FA6-496A-A73E-A31FC36E72D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE31B12A-9FA6-496A-A73E-A31FC36E72D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691A03C8-036E-4A22-AF5C-7E03DF43427C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
